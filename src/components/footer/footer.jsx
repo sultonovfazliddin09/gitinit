@@ -34,6 +34,7 @@ function Footer() {
                 <li className='hover:text-red-600 font-medium text-gray-400'>Report a Payment Issue</li>
             </ul>
         </div>
+      
     </div>
   )
 }
