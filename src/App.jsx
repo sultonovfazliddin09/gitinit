@@ -1,9 +1,12 @@
 import React from 'react'
+import FooterCard from './components/footercard/footercard'
+import Footer from './components/footer/footer'
 
 function App() {
   return (
     <div>
-      <h1>foyzik ***</h1>
+        <FooterCard/>
+        <Footer/>
     </div>
   )
 }
