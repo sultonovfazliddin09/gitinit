@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "soat2",
+      "brand": "Wwoor",
+      "price": 700,
+      "image": "https://img.joomcdn.net/38b15250a4fe5748ad13f094007668222b564214_original.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "soat3",
+      "brand": "LIGE",
+      "price": 1200,
+      "image": "https://img.joomcdn.net/7528a357ddcb7a63297d446d11b73492cf4f5e01_original.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "soat4",
+      "brand": "CRRJU",
+      "price": 95,
+      "image": "https://avatars.mds.yandex.net/get-mpic/4343038/2a0000018f9654a37946793613ecd83fc633/orig"
+    },
+    {
+      "id": "4",
+      "name": "soat5",
+      "brand": "Tonki",
+      "price": 905,
+      "image": "https://img.joomcdn.net/c34d6a6029b5f21612df4b6707b5906162793629_original.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "soat6",
+      "brand": "Tonki",
+      "price": 95,
+      "image": "https://avatars.mds.yandex.net/i?id=2b9f39fc8ea2e759669fd9ac96df78d8_l-8549619-images-thumbs&n=13"
+    },
+    {
+      "id": "6",
+      "name": "soat7",
+      "brand": "Tonki",
+      "price": 900,
+      "image": "https://avatars.mds.yandex.net/i?id=5e24c1104dbca2007ae9959c759a7e42_l-12932221-images-thumbs&n=13"
+    }
+  ]
+}
